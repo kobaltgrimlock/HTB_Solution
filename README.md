@@ -6,7 +6,7 @@
 In this repository, you'll find my compiled solutions to a set of diverse machines, each posing unique challenges. I've tackled three easy difficulty machines – Precious, Photobomb, and Shoppy – along with a medium difficulty challenge named Bro Science.
 
 
-<h2>Machines and Difficulties</h2>h2>
+<h2>Machines and Difficulties</h2>
 <ol>
     <li><b>Precious</b>-Easy Difficulty</li>
     <li><b>Photobomb</b>-Easy Difficulty</li>
